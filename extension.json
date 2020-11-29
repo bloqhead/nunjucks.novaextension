@@ -1,8 +1,8 @@
 {
-    "identifier": "alienlebarge.nunjucks",
+    "identifier": "codes.daryn.nunjucks",
     "name": "nunjucks",
-    "organization": "alienlebarge",
-    "description": "Nunjucks syntax highlighting",
+    "organization": "codes.daryn",
+    "description": "Nunjucks syntax highlighting. Cédric Aellen (@alienlebarge on GitHub) is the original creator of this extension!",
     "version": "0.0.1",
     "categories": ["languages"],
     "keywords": ["nunjucks"],
@@ -12,6 +12,6 @@
         "onWorkspaceContains:*.njk",
         "onWorkspaceContains:*.nunjucks"
     ],
-    "repository": "https://github.com/alienlebarge/nunjucks.novaextension",
-    "bug": "https://github.com/alienlebarge/nunjucks.novaextension/issues"
+    "repository": "https://github.com/bloqhead/nunjucks.novaextension",
+    "bugs": "https://github.com/bloqhead/nunjucks.novaextension/issues"
 }
